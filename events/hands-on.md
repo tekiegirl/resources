@@ -1,5 +1,6 @@
 # Hands-on Visual Communication for Software Architecture 
-> Workshop resources
+
+> Download all exercise files: [All Exercises Zip File](../exercises/All-Exercise-Files.zip)
 
 ## Exercises
 - [Accessibility Problem - Diagrams.net/Draw.io](../exercises/Exercise-2211-Accessibility-Problem.drawio)
