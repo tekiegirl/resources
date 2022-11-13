@@ -20,5 +20,5 @@ If you don't want to, or can't, download the files in this repository you can st
 5. if this is the first time you have used this feature you will need to log in / authorise diagrams.net to read from your GitHub account
 6. click your forked version of this repository in the list and navigate to the file you wish to open
 
---—
+---
 [> Home](../README.md)

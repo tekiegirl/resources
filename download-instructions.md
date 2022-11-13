@@ -25,5 +25,5 @@ To download all the files in the repository
 3. if you have GitHub Desktop installed click on Open with GitHub Desktop and follow the instructions in GitHub Desktop when it opens to clone the repository to your local machine
 4. else copy the HTTPS or SSH link and use this with your git client to clone the repository to your local machine
 
---—
+---
 [> Home](../README.md)
