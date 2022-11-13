@@ -1,5 +1,5 @@
 # Hands-on Visual Communication for Software Architecture 
-[Download Instructions](../download-instructions.md)
+[Download Instructions](../download-instructions.md) or [fork instructions](../fork-instructions.md)
 
 > Download all exercise files: [All Exercises Zip File](../exercises/All-Exercise-Files.zip)
 

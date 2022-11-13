@@ -3,6 +3,8 @@ There are a few ways to download and use the exercise files in this repository:
 - [Download files, without using Git](#without-using-git)
 - [Clone the repository using Git or Github Desktop](#using-git)
 
+If you cannot, or don't want to, download you can follow the [fork instructions](fork-instructions.md) instead.
+
 ## Without using Git
 There are, again, a couple of options:
 ## Download individual files
