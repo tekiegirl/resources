@@ -2,4 +2,5 @@
 This repository contains resources for Jacqui Read's workshops, talks and courses.
 
 ## Resources By Event
-- [Communicating Software Architecture - O'Reilly online training](events/oreilly-communicating-software-architecture.md)
+- [Hands-on Visual Communication for Software Architecture](events/hands-on.md)
+- [Communicating Software Architecture - O'Reilly online training](events/communicating-sa.md)
