@@ -1,4 +1,5 @@
 # Hands-on Visual Communication for Software Architecture 
+[Download Instructions](../download-instructions.md)
 
 > Download all exercise files: [All Exercises Zip File](../exercises/All-Exercise-Files.zip)
 
@@ -12,5 +13,6 @@
 - [Accessibility Example Solution - Diagrams.net/Draw.io](../exercises/Exercise-2211-Accessibility-Example-Solution.drawio)
 - [Clarify the Clutter Example Solution - Diagrams.net/Draw.io](../exercises/Exercise-2211-Clarify-the-Clutter-Example-Solution.drawio)
 - [Composition Example Solution - Diagrams.net/Draw.io](../exercises/Exercise-2211-Composition-Example-Solution.drawio)
-—
+
+--—
 [> Home](../README.md)
