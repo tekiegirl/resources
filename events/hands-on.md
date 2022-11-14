@@ -14,5 +14,8 @@
 - [Clarify the Clutter Example Solution - Diagrams.net/Draw.io](../exercises/Exercise-2211-Clarify-the-Clutter-Example-Solution.drawio)
 - [Composition Example Solution - Diagrams.net/Draw.io](../exercises/Exercise-2211-Composition-Example-Solution.drawio)
 
+## Slides
+- [Main slide deck pdf](../slides/slides-Jacqui-Read-workshop-hands-on.pdf)
+
 ---
 [> Home](../README.md)
