@@ -22,6 +22,16 @@ This repository contains resources for Jacqui Read's workshops, talks and course
 - [Colour Blind Awareness](https://www.colourblindawareness.org/)
 - [Colour Blind Friendly Design tips](https://www.colorblindguide.com/post/colorblind-friendly-design-1)
 
+## Modelling
+
+### Diagrams
+- [C4 Model](https://c4model.com/)
+- [Archi for Archimate](https://www.archimatetool.com/)
+
+### Collaborative Modelling
+- [Domain Storytelling](https://domainstorytelling.org/)
+- [Event Storming](https://www.eventstorming.com/)
+
 ### O'Reilly
 > Require a paid subscription or free trial to access
 - [Gregor Hohpe’s The Software Architect Elevator](https://learning.oreilly.com/library/view/the-software-architect/9781492077534/)
