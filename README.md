@@ -9,6 +9,7 @@ This repository contains resources for Jacqui Read's workshops, talks and course
 - [The Basics of Visual Balance - Alvalyn Lundgren](https://alvalyn.com/the-basics-of-visual-balance/)
 - [Spoon Theory](https://butyoudontlooksick.com/articles/written-by-christine/the-spoon-theory/)
 - [WCAG - Web Content Accessibility Guidelines](https://wcag.com/resource/what-is-wcag/) (applicable to diagram and other visuals)
+- [Simpfied English](https://www.simplifiedenglish.net/simplified-english/)
 
 ### Colour Blindness
 
