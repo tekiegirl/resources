@@ -40,3 +40,5 @@ This repository contains resources for Jacqui Read's workshops, talks and course
 > Require a paid subscription or free trial to access
 - [Gregor Hohpe’s The Software Architect Elevator](https://learning.oreilly.com/library/view/the-software-architect/9781492077534/)
 - [Know Your Audience pattern for presentations](https://learning.oreilly.com/library/view/presentation-patterns-techniques/9780132963381/ch01.html#ch01lev1sec1)
+- [The Monkey Book by Vlad Khononov](https://learning.oreilly.com/library/view/-/9781098100124/)
+- [Learning System Thinking by Diana Montalion](https://learning.oreilly.com/library/view/learning-systems-thinking/9781098151324/) 
