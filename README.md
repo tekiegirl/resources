@@ -2,6 +2,7 @@
 This repository contains resources for Jacqui Read's workshops, talks and courses.
 
 ## Resources By Event
+- [Hands-on Visual Communication for DDD](events/hands-on-ddd.md)
 - [Hands-on Visual Communication for Software Architecture](events/hands-on.md)
 - [Communicating Software Architecture - O'Reilly online training](events/communicating-sa.md)
 
@@ -9,7 +10,7 @@ This repository contains resources for Jacqui Read's workshops, talks and course
 - [The Basics of Visual Balance - Alvalyn Lundgren](https://alvalyn.com/the-basics-of-visual-balance/)
 - [Spoon Theory](https://butyoudontlooksick.com/articles/written-by-christine/the-spoon-theory/)
 - [WCAG - Web Content Accessibility Guidelines](https://wcag.com/resource/what-is-wcag/) (applicable to diagram and other visuals)
-- [Simpfied English](https://www.simplifiedenglish.net/simplified-english/)
+- [Simplified English](https://www.simplifiedenglish.net/simplified-english/)
 
 ### Colour Blindness
 
@@ -23,7 +24,7 @@ This repository contains resources for Jacqui Read's workshops, talks and course
 
 #### Information
 - [Colour Blind Awareness](https://www.colourblindawareness.org/)
-- [Colour Blind Friendly Design tips](https://www.colorblindguide.com/post/colorblind-friendly-design-1)
+- [Colour Blind Friendly Design Tips](https://www.colorblindguide.com/post/colorblind-friendly-design-1)
 
 ## Modelling
 
