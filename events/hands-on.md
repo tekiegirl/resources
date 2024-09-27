@@ -8,7 +8,6 @@
 - [Clarify the Clutter Problem - Diagrams.net/Draw.io](../exercises/Exercise-2211-Clarify-the-Clutter-Problem.drawio)
 - [Composition Problem - Diagrams.net/Draw.io](../exercises/Exercise-2211-Composition-Problem.drawio)
 - [C4 Container Problem - Diagrams.net/Draw.io](../exercises/Exercise-2209-C4-Container.drawio)
-- [O'Reilly Architecture Kata entries](https://github.com/tekiegirl/SoftwareArchitectureResources/blob/main/Resources/OReillyKata.md)
 
 ## Example Solutions
 - [Accessibility Example Solution - Diagrams.net/Draw.io](../exercises/Exercise-2211-Accessibility-Example-Solution.drawio)
@@ -17,6 +16,9 @@
 
 ## Slides
 - [Main slide deck pdf](../slides/slides-Jacqui-Read-workshop-hands-on.pdf)
+
+## Further Links
+- [The Kata Log](https://github.com/TheKataLog)
 
 ---
 [> Home](../README.md)
