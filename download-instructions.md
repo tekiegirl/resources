@@ -25,4 +25,4 @@ To download all the files in the repository
 4. else copy the HTTPS or SSH link and use this with your git client to clone the repository to your local machine
 
 ---
-[> Home](../README.md)
+[> Home](README.md)
