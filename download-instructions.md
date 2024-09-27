@@ -9,8 +9,7 @@ If you cannot, or don't want to, download you can follow the [fork instructions]
 There are, again, a couple of options:
 ### Download individual files
 1. click on the link to the file
-2. if there is a download button click it to download the file (e.g. a zip file)
-3. else right-click the Raw button and choose 'save as' (or similar)
+2. click the download button in the top right to download the file (button symbol is a downward arrow into a tray)
 
 ### Download the whole repository
 To download all the files in the repository 
