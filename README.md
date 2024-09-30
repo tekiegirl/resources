@@ -2,6 +2,7 @@
 This repository contains resources for Jacqui Read's workshops, talks and courses.
 
 ## Resources By Event
+- [Design Patterns for Software Diagramming](events/design-patterns-diagramming.md)
 - [Hands-on Visual Communication for DDD](events/hands-on-ddd.md)
 - [Hands-on Visual Communication for Software Architecture](events/hands-on.md)
 - [Communicating Software Architecture - O'Reilly online training](events/communicating-sa.md)
