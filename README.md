@@ -6,6 +6,7 @@ This repository contains resources for Jacqui Read's workshops, talks and course
 - [Hands-on Visual Communication for DDD](events/hands-on-ddd.md)
 - [Hands-on Visual Communication for Software Architecture](events/hands-on.md)
 - [Communicating Software Architecture - O'Reilly online training](events/communicating-sa.md)
+- [Generative AI for Software Architecture Diagrams](events/gen-ai-for-software-diagrams.md)
 
 ## Tools and Further Resources
 - [The Basics of Visual Balance - Alvalyn Lundgren](https://alvalyn.com/the-basics-of-visual-balance/)
