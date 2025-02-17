@@ -7,6 +7,9 @@
 - [PlantUML Webserver](https://www.plantuml.com/plantuml/)
 - [Sequence diagram exercise image](../exercises/sequence-exercise.png)
 - [PlantUML Sequence diagrams](https://plantuml.com/sequence-diagram)
+- [PlantUML colours](https://plantuml.com/color)
+  - Colours used in the diagram are: #d4e3e2 pale blue, #599fb0 dark blue, #faa634 yellow, #eb4234 red
+
 
 ### Mermaid
 - [Mermaid Live](https://mermaid.live)
@@ -14,7 +17,7 @@
 - [Sequence diagram exercise image](../exercises/sequence-exercise.png)
 - [Mermaid Sequence diagrams](https://mermaid.js.org/syntax/sequenceDiagram.html)
 - [Customise Mermaid theme](https://mermaid.js.org/config/theming.html#customizing-themes-with-themevariables)
-  - For this exercise you can optionally look at changing *actorBkg*, *actorBorder*, *actorLineColor*, *activationBkgColor*, and *activationBorderColor*
+  - For this exercise you can optionally look at changing *actorBkg*, *actorBorder*, *actorLineColor*, *activationBkgColor*, and *activationBorderColor* (colours from the original diagram are defined as hex values above)
 
 ### Structurizr
 - [Structurizr DSL Demo](https://structurizr.com/dsl)
