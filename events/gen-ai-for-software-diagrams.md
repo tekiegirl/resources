@@ -38,6 +38,10 @@
 - [Render PlantUML on GitHub](https://stackoverflow.com/questions/32203610/how-to-integrate-uml-diagrams-into-gitlab-or-github/32771815#32771815)
 - [C4-PlantUML](https://github.com/plantuml-stdlib/C4-PlantUML)
 - [PlantUML Standard Libraries](https://github.com/plantuml/plantuml-stdlib)
+- Using legends in PlantUML:
+  - [PlantUML legends](https://plantuml.com/commons#3b05da228ffe6d52)
+  - [Table legend hack](https://www.hascode.com/snippet-adding-legends-to-plantuml-diagrams/)
+  - [Stack Overflow table legend hack](https://stackoverflow.com/questions/30999290/how-to-generate-a-legend-with-colors-in-plantuml/44217931#44217931)
 - [PlantUML stying (replacing skin params)](https://plantuml.com/style-evolution)
 - [PlantUML Skin Params](https://plantuml-documentation.readthedocs.io/en/latest/formatting/all-skin-params.html#)
 - [PlantUML Icons](https://plantuml.com/creole#041a1eb0031c373d)
