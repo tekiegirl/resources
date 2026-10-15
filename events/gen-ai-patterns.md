@@ -112,9 +112,9 @@ Render before you show me. List every change. Never remove what you weren't aske
 
 Get the structure as data before you ask for the picture. Ask for the elements and relationships as a table, YAML, Markdown or CSV, check that, and then generate the diagram from it.
 
-**Why:** It is much quicker to check a list of relationships than to trace arrows on a diagram. LLMs often miss arrows, invent them or join them to the wrong element, especially when working from an image.
+**Why:** It is much quicker to check a list of relationships than to trace arrows on a diagram. LLMs often miss arrows, invent them or join them to the wrong element, especially in big, dense or messy diagrams.
 
-**How:** Use it when a diagram has more than about ten relationships, or when you start from an image or from existing documents. Skip it when you can check the whole diagram at a glance.
+**How:** Use it when a diagram has more than about ten relationships, or when you start from a big, dense or messy image (such as a whiteboard photo) or from existing documents. Skip it when you can check the whole diagram at a glance: in October 2026, a small, clean hand-drawn diagram went straight to PlantUML with no mistakes.
 
 **Check:** Count the relationships in your source, in the data and in the diagram. Do the numbers match?
 
@@ -133,7 +133,7 @@ For more than ten relationships, give me the elements and relationships as data 
 - *Doesn't that double the work?* Skip it for small diagrams. Use it when there are more than about ten relationships, where it saves time.
 - *Isn't Structurizr DSL already a list of elements and relationships?* Yes. That is why Data First leads on to [Model First, Export Views](#model-first-export-views), where you keep that data as your source of truth.
 
-*Credit:* Jacqui Read's experiments (Sep 2024). [Mastra (Feb 2025)](https://mastra.ai/blog/whiteboard-to-excalidraw-converter); [R2ABench](https://arxiv.org/html/2604.06683v1) and [DiagramEval](https://arxiv.org/html/2510.25761v2) on why relationships are harder than elements. "Check Alignment" by Lada Kesseler, from Augmented Coding Patterns, licensed under CC BY 4.0. https://ai-coding-patterns.dev/patterns/check-alignment/
+*Credit:* Jacqui Read's experiments (Sep 2024, Oct 2026). [Mastra (Feb 2025)](https://mastra.ai/blog/whiteboard-to-excalidraw-converter); [R2ABench](https://arxiv.org/html/2604.06683v1) and [DiagramEval](https://arxiv.org/html/2510.25761v2) on why relationships are harder than elements. "Check Alignment" by Lada Kesseler, from Augmented Coding Patterns, licensed under CC BY 4.0. https://ai-coding-patterns.dev/patterns/check-alignment/
 
 ### One Level per View
 
@@ -170,6 +170,8 @@ Let the LLM edit one architecture model, such as a Structurizr workspace, and le
 
 **How:** Keep a Structurizr workspace as your architecture model. Use the `structurizr export` command, or the Structurizr MCP server, to produce views in other formats. Use the LLM for the jobs that need judgement, such as editing the architecture model or answering questions about it like "what depends on this service?", and ask for the view that answers the question.
 
+In October 2026 the Structurizr MCP server exported a container view to Mermaid with every element and relationship intact. The Mermaid render was harder to read than Structurizr's own, though: some arrows merged, and the person, browser and queue shapes were lost. The export is right; how readable it is depends on the renderer, so still [render, then check](#render-then-check).
+
 **Check:** If there is no exporter for the format you need and you have to let the LLM convert it, ask it to list everything it couldn't convert.
 
 **In a chat:** Keep one source-of-truth file, such as your Structurizr DSL or your data file from Data First, and paste it into each new chat. Render the views in the Structurizr playground. This takes more copying and pasting than the agent route.
@@ -188,7 +190,7 @@ Edit the workspace; export the views. Use tags and styles, not `containerDb`.
 - *Isn't that lock-in?* The Structurizr DSL is open-source text, and it has several exporters.
 - *Why not just let the LLM convert between notations?* Because of [Translation Drift](#translation-drift): conversions silently drop or change things.
 
-*Credit:* Jacqui Read's experiments (Sep 2024, Sep 2025). Structurizr AI documentation and MCP server https://docs.structurizr.com/ai; [libme (Aug 2026)](https://dev.to/libme/the-architecture-diagram-in-your-wiki-is-lying-how-to-generate-one-from-the-code-instead-5cc8): "a diagram you generate is a report". "Offload Deterministic" by Lada Kesseler, from Augmented Coding Patterns, licensed under CC BY 4.0. https://ai-coding-patterns.dev/patterns/offload-deterministic/
+*Credit:* Jacqui Read's experiments (Sep 2024, Sep 2025, Oct 2026). Structurizr AI documentation and MCP server https://docs.structurizr.com/ai; [libme (Aug 2026)](https://dev.to/libme/the-architecture-diagram-in-your-wiki-is-lying-how-to-generate-one-from-the-code-instead-5cc8): "a diagram you generate is a report". "Offload Deterministic" by Lada Kesseler, from Augmented Coding Patterns, licensed under CC BY 4.0. https://ai-coding-patterns.dev/patterns/offload-deterministic/
 
 ### Start from Artefacts
 
@@ -216,7 +218,7 @@ Only include elements you can trace to the inputs; list anything you assumed.
 - *Tools can already reverse-engineer diagrams from code.* Use them. AI helps with the gaps they leave, such as runtime flows, views across several repositories, and documentation.
 - *I can't paste our code into a public chat.* Use your organisation's approved tool, or an LLM that runs locally.
 
-*Credit:* Jacqui Read's experiments (Sep 2024). [R2ABench (Apr 2026)](https://arxiv.org/html/2604.06683v1); [libme (Aug 2026)](https://dev.to/libme/the-architecture-diagram-in-your-wiki-is-lying-how-to-generate-one-from-the-code-instead-5cc8); [Vaughan (May 2026)](https://codex.danielvaughan.com/2026/05/13/codex-cli-architecture-diagrams-mermaid-c4-plantuml-source-code-visualisation/).
+*Credit:* Jacqui Read's experiments (Sep 2024, Sep 2025). [R2ABench (Apr 2026)](https://arxiv.org/html/2604.06683v1); [libme (Aug 2026)](https://dev.to/libme/the-architecture-diagram-in-your-wiki-is-lying-how-to-generate-one-from-the-code-instead-5cc8); [Vaughan (May 2026)](https://codex.danielvaughan.com/2026/05/13/codex-cli-architecture-diagrams-mermaid-c4-plantuml-source-code-visualisation/).
 
 ### Encode Your Conventions
 
